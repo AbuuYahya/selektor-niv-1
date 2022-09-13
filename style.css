@@ -1,0 +1,22 @@
+body {
+  color: burlywood;
+}
+H1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.Rubrik-1 h1 {
+  font-size: 3rem;
+}
+
+ul {
+  list-style: square;
+  margin-left: 50px;
+}
+
+img {
+  width: 8%;
+  float: left;
+  border-style: solid;
+}
